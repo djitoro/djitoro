@@ -9,7 +9,7 @@ I'm a beginner ML - engineer
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [dimaihnenko@gmail.com](mailto:dimaihnenko@gmail.com)
 * 🧠  I'm learning Math and Python
-* 🤝  I'm open to collaborating on DeepFake
+* 🤝  Looking for a job
 * ⚡  в ресурсе
 
 ### Skills
